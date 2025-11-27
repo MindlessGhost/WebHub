@@ -1,6 +1,32 @@
+/* @font-face{
+    font-family: 'cc_red_alert_inet-webfont';
+    src:
+        url('cc_red_alert_inet-webfont.eot') format('eot'),
+        url('cc_red_alert_inet-webfont.svg') format('svg'),
+        url('cc_red_alert_inet-webfont.ttf') format('ttf'),
+        url('cc_red_alert_inet-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+} */
+
+/* @font-face {
+    font-family: 'cc_red_alert_inetregular';
+    src: url('cc_red_alert_inet-webfont.eot');
+    src: url('cc_red_alert_inet-webfont.eot?#iefix') format('embedded-opentype'),
+         url('cc_red_alert_inet-webfont.woff') format('woff'),
+         url('cc_red_alert_inet-webfont.ttf') format('truetype'),
+         url('cc_red_alert_inet-webfont.svg#cc_red_alert_inetregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+} */
+
+/* @font-face{
+    font-family
+} */
+
 body{
     color: #19ff09;
     background-color: #010101;
-    font-family:'Courier New', Courier, monospace;
+    font-family: 'Courier New', Courier, monospace;
     text-align: center;
 }
